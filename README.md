@@ -165,19 +165,23 @@ rozsławił imię szkoły lub działał na rzecz społeczności szkolnej w spos�
 22. Rodzice uczniów, którzy zostali wpisani do Złotej Księgi oraz Złotej Księgi Sportowców
 oraz tych, którzy otrzymali Nadzwyczajny Dyplom Uznania otrzymują list gratulacyjny,
 a uczeń otrzymuje potwierdzenie wpisu do Złotej Księgi lub Złotej Księgi Sportowców.
+
 § 5
 Uczeń lub rodzice ucznia mogą wnieść do Dyrektora Szkoły zastrzeżenia do otrzymanej
 nagrody w terminie 3 dni od jej otrzymania.
 1. Pisemne zastrzeżenia z uzasadnieniem składane są w sekretariacie szkoły.
 2. Dyrektor na piśmie ustosunkowuje się do zastrzeżeń w ciągu 14 dni roboczych.
 3. Decyzja Dyrektora jest ostateczna.
+
 § 6
 Rodzice uczniów ostatniej klasy szkoły podstawowej otrzymują pisemne podziękowania
 za szczególne zaangażowanie i współpracę ze szkołą. Wyboru osób do tego wyróżnienia
 dokonują wychowawcy oddziałów po konsultacji z byłymi wychowawcami.
+
 § 7
 Uczniom przyznaje się świadectwa z wyróżnieniem, gdy średnia wszystkich ocen
 na świadectwie wynosi 4,75 lub więcej, a ocena zachowania jest wzorowa lub bardzo dobra.
+
 § 8
 W części świadectwa dotyczącej szczególnych osiągnięć ucznia odnotowuje się:
 1) uzyskane wysokie miejsca, nagradzane lub honorowane zwycięskim tytułem
@@ -185,6 +189,7 @@ w konkursach wiedzy, artystycznych i zawodach sportowych organizowanych
 przez kuratora oświaty albo organizowanych na szczeblu co najmniej powiatowym
 przez inne podmioty;
 2) osiągnięcia w aktywności na rzecz innych ludzi, zwłaszcza w formie wolontariatu.
+
 § 9
 Jeżeli uczeń ma wiele osiągnięć, których liczba przekracza miejsce wpisu na świadectwie,
 wyboru osiągnięć dokonuje wychowawca oddziału po konsultacji z rodzicami ucznia.
