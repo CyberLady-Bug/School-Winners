@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T09:56:03.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="V7IcsTlnsf_uiNSsLvpq" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T10:37:54.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="iN8eMeGZz6i15DsY8BCV" type="github">
   <diagram id="zOTPJ8DglZj9fyyTUVDR" name="Strona-1">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ALLUctclk4UXSdhnqxAy-129" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;DYPLOM&lt;br style=&quot;font-size: 13px;&quot;&gt;NAGRODA RZECZOWA&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="150" height="60" as="geometry" />
+        <mxCell id="ALLUctclk4UXSdhnqxAy-129" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;DYPLOM PAMIĄTKOWY&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;NAGRODA RZECZOWA&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ALLUctclk4UXSdhnqxAy-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ALLUctclk4UXSdhnqxAy-130" target="ALLUctclk4UXSdhnqxAy-132">
           <mxGeometry relative="1" as="geometry">
@@ -100,8 +100,8 @@
         <mxCell id="ALLUctclk4UXSdhnqxAy-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.011;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeColor=#FF9933;" edge="1" parent="1" source="ALLUctclk4UXSdhnqxAy-139" target="ALLUctclk4UXSdhnqxAy-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ALLUctclk4UXSdhnqxAy-139" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;DYPLOM&lt;br style=&quot;font-size: 13px;&quot;&gt;NAGRODA RZECZOWA&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="150" height="60" as="geometry" />
+        <mxCell id="ALLUctclk4UXSdhnqxAy-139" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;DYPLOM UKOŃCZENIA&amp;nbsp; 1.ETAPU EDUKACYJNEGO NAGRODA RZECZOWA&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ALLUctclk4UXSdhnqxAy-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeColor=#FF9933;" edge="1" parent="1" source="ALLUctclk4UXSdhnqxAy-140" target="ALLUctclk4UXSdhnqxAy-150">
           <mxGeometry relative="1" as="geometry" />
@@ -113,8 +113,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="930" y="560" />
-              <mxPoint x="180" y="560" />
+              <mxPoint x="930" y="580" />
+              <mxPoint x="180" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,8 +130,8 @@
         <mxCell id="ALLUctclk4UXSdhnqxAy-144" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;Przyznawane zawsze bez względu na okoliczności, nawet w sytuacjach nadzwyczajnych&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ALLUctclk4UXSdhnqxAy-150" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;W sytuacjach nadzwyczajnych&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;line-height: 110%;&quot;&gt;NIE SĄ PRZYZNAWANE !&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="697.5" y="490" width="185" height="60" as="geometry" />
+        <mxCell id="ALLUctclk4UXSdhnqxAy-150" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;W sytuacjach nadzwyczajnych &lt;span style=&quot;background-color: initial;&quot;&gt;NIE SĄ PRZYZNAWANE ! Obowiązuje tylko USTNA POCHWAŁA DYREKTORA&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="693.75" y="490" width="192.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ALLUctclk4UXSdhnqxAy-158" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;WARUNKI PRZYZNAWANIA NAGRÓD&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontSize=14;fillColor=#f5f5f5;fillStyle=auto;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="20" y="610" width="1130" height="30" as="geometry" />
