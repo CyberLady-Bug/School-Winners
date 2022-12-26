@@ -1,4 +1,4 @@
-# WinnerS
+# Scholl Winners
 Aplikacja będzie tworzona w oparciu o zapisy statutu szkoły SP2DT - przyznawanie uczniom nagród.
 W zamyśle aplikacja ma ułatwić nauczycielom przyznawanie uczniom nagród końcoworocznych.
 # Oryginalne zapisy Stautu SP2DT rok szkolny 2022/2023
