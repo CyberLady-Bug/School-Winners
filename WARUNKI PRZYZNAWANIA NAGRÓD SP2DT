@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T14:44:28.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="G5RufCD5JuM1jXzf8Xjh" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-26T14:57:12.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="be6wn9v_ZZop6SFJNB6W" version="20.7.4" type="github" pages="2">
   <diagram id="TOtXNBwODL2TkFlFxcZ9" name="Strona-1">
     <mxGraphModel dx="1434" dy="-88" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -113,6 +113,42 @@
         </mxCell>
         <mxCell id="3fdjg_dYF4XDZxPCwvmZ-69" value="Zachowanie: bdb - wz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="3fdjg_dYF4XDZxPCwvmZ-66">
           <mxGeometry y="120" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-1" value="1) STATUETKA&amp;nbsp; ARTYSTA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="495" y="960" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-2" value="W trakcie 1. lub&amp;nbsp; 2. etapu edukacyjnego przynajmniej raz Laureat-Finalista-I-III m. w artystyczny&amp;nbsp; konkurs powiatowy i wyższy.&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-1">
+          <mxGeometry y="30" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-3" value="Średnia ocen: 4,75 -6,0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-1">
+          <mxGeometry y="110" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-4" value="Zachowanie: bdb - wz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-1">
+          <mxGeometry y="140" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-9" value="2) STATUETKA&amp;nbsp; ARTYSTA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1140" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-10" value="W trakcie 1. lub 2. etapu edukacyjnego przynajmniej raz udział i miejsca wysokie w&amp;nbsp; zawodach artystycznych - organizator Małopolski Kurator Oświaty. /miejsca rozumiane jako wysokie określa coroczne zarządzenie MKO/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-9">
+          <mxGeometry y="30" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-11" value="Średnia ocen: 4,75 - 6,0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-9">
+          <mxGeometry y="130" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-12" value="Zachowanie: bdb - wz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-9">
+          <mxGeometry y="160" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-13" value="3) STATUETKA ARTYSTA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1340" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-14" value="W trakcie 1. lub 2. etapu edukacyjnego przynajmniej raz udział i miejsca wysokie w&amp;nbsp; zawodach wiedzy - organizator inne podmioty działające na terenie szkoły. /miejsca rozumiane jako wysokie określa coroczne zarządzenie MKO/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-13">
+          <mxGeometry y="30" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-15" value="Średnia ocen: 4,75 - 6,0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-13">
+          <mxGeometry y="130" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hNDmfCw0d4zIHwPaGYIB-16" value="Zachowanie: bdb - wz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hNDmfCw0d4zIHwPaGYIB-13">
+          <mxGeometry y="160" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
