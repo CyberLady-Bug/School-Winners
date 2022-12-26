@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T01:42:41.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="HY258dFQuCx-D6SmBcEP" type="github"><diagram id="Z8BPRjVxLgyHFLQ5BeFP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-26T01:52:05.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="RxJWDFvETe2vItRiOQYb" type="github">
+  <diagram id="TOtXNBwODL2TkFlFxcZ9" name="Strona-1">
+    <mxGraphModel dx="1434" dy="-31" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mgSrJ-JiRIp8hNSHGx5W-3" value="KLASY 8" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="845" y="990" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgSrJ-JiRIp8hNSHGx5W-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="1" source="mgSrJ-JiRIp8hNSHGx5W-2" target="mgSrJ-JiRIp8hNSHGx5W-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mgSrJ-JiRIp8hNSHGx5W-5" value="KLASY 4-7" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="225" y="990" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgSrJ-JiRIp8hNSHGx5W-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="1" source="mgSrJ-JiRIp8hNSHGx5W-2" target="mgSrJ-JiRIp8hNSHGx5W-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mgSrJ-JiRIp8hNSHGx5W-2" value="WARUNKI PRZYZNAWANIA NAGRÓD KOŃCOWOROCZNYCH" style="whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="385" y="870" width="440" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
