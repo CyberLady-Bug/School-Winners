@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T14:36:37.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DaJstXQwtbozOKCd3zeX" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-26T14:39:51.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZsGNV5y6XEnnfh0HlXMs" version="20.7.4" type="github" pages="2">
   <diagram id="TOtXNBwODL2TkFlFxcZ9" name="Strona-1">
     <mxGraphModel dx="1434" dy="-88" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -122,24 +122,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rlM_UKFNGtqZZky12aVY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q3GgcxJg25QvSsV-27rt-7" target="q3GgcxJg25QvSsV-27rt-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="170" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="A4J1bx_nOAD6mXpiMKWG-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="40" width="500" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="rlM_UKFNGtqZZky12aVY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q3GgcxJg25QvSsV-27rt-7" target="q3GgcxJg25QvSsV-27rt-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="170" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="q3GgcxJg25QvSsV-27rt-7" value="KLASY 4-7" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=15;" vertex="1" parent="A4J1bx_nOAD6mXpiMKWG-1">
+          <mxGeometry x="155" y="80" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q3GgcxJg25QvSsV-27rt-7" value="KLASY 4-7" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="535" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="q3GgcxJg25QvSsV-27rt-10" value="WARUNKI PRZYZNAWANIA NAGRÓD KOŃCOWOROCZNYCH" style="whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#666666;fontColor=#333333;fontStyle=1;fontSize=16;" vertex="1" parent="A4J1bx_nOAD6mXpiMKWG-1">
+          <mxGeometry width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q3GgcxJg25QvSsV-27rt-10" value="WARUNKI PRZYZNAWANIA NAGRÓD KOŃCOWOROCZNYCH" style="whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#666666;fontColor=#333333;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="380" y="40" width="500" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q3GgcxJg25QvSsV-27rt-13" value="DYPLOM UZNANIA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="395" y="180" width="140" height="90" as="geometry">
+        <mxCell id="q3GgcxJg25QvSsV-27rt-13" value="DYPLOM UZNANIA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="A4J1bx_nOAD6mXpiMKWG-1">
+          <mxGeometry x="40" y="140" width="140" height="90" as="geometry">
             <mxRectangle x="20" y="1100" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -149,8 +142,13 @@
         <mxCell id="q3GgcxJg25QvSsV-27rt-15" value="Średnia ocen: 4,75 - 6,0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-13">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q3GgcxJg25QvSsV-27rt-16" value="1)&amp;nbsp; NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635" y="190" width="230" height="90" as="geometry" />
+        <mxCell id="rlM_UKFNGtqZZky12aVY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="A4J1bx_nOAD6mXpiMKWG-1" source="q3GgcxJg25QvSsV-27rt-7" target="q3GgcxJg25QvSsV-27rt-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3GgcxJg25QvSsV-27rt-16" value="1)&amp;nbsp; NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="A4J1bx_nOAD6mXpiMKWG-1">
+          <mxGeometry x="220" y="140" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q3GgcxJg25QvSsV-27rt-17" value="Zachowanie: bdb - wz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-16">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
@@ -158,14 +156,19 @@
         <mxCell id="q3GgcxJg25QvSsV-27rt-18" value="Średnia ocen: 5,0 - 6,0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-16">
           <mxGeometry y="60" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q3GgcxJg25QvSsV-27rt-19" value="2)&amp;nbsp; NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635" y="290" width="230" height="90" as="geometry" />
+        <mxCell id="rlM_UKFNGtqZZky12aVY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="A4J1bx_nOAD6mXpiMKWG-1" source="q3GgcxJg25QvSsV-27rt-7" target="q3GgcxJg25QvSsV-27rt-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3GgcxJg25QvSsV-27rt-19" value="2)&amp;nbsp; NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="A4J1bx_nOAD6mXpiMKWG-1">
+          <mxGeometry x="220" y="240" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q3GgcxJg25QvSsV-27rt-20" value="Laureat -Finalista w przedmiotowy/tematyczny konkurs kuratoryjny organizowany/współorganizowany" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-19">
           <mxGeometry y="30" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q3GgcxJg25QvSsV-27rt-21" value="3) NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635" y="390" width="230" height="90" as="geometry" />
+        <mxCell id="q3GgcxJg25QvSsV-27rt-21" value="3) NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="A4J1bx_nOAD6mXpiMKWG-1">
+          <mxGeometry x="220" y="340" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q3GgcxJg25QvSsV-27rt-22" value="Laureat-Finalista-I-III m. w artystyczny konkurs powiatowy i wyższy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-21">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
@@ -173,8 +176,8 @@
         <mxCell id="q3GgcxJg25QvSsV-27rt-23" value="Zachowanie: db - wz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-21">
           <mxGeometry y="60" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q3GgcxJg25QvSsV-27rt-24" value="4) NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635" y="490" width="230" height="110" as="geometry" />
+        <mxCell id="q3GgcxJg25QvSsV-27rt-24" value="4) NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="A4J1bx_nOAD6mXpiMKWG-1">
+          <mxGeometry x="220" y="440" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="q3GgcxJg25QvSsV-27rt-25" value="Wzbogacanie talentem życia szkoły i reprezentowanie szkoły w środowisku lokalnym" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-24">
           <mxGeometry y="30" width="230" height="50" as="geometry" />
@@ -182,8 +185,8 @@
         <mxCell id="q3GgcxJg25QvSsV-27rt-26" value="Zachowanie: db - wz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-24">
           <mxGeometry y="80" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q3GgcxJg25QvSsV-27rt-27" value="5) NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635" y="610" width="230" height="130" as="geometry" />
+        <mxCell id="q3GgcxJg25QvSsV-27rt-27" value="5) NAGRODY RZECZOWE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="A4J1bx_nOAD6mXpiMKWG-1">
+          <mxGeometry x="220" y="560" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="q3GgcxJg25QvSsV-27rt-28" value="Trzykrotne w ciągu roku zajęcie I-III m. w zawodach sportowych indywidualnych/zespołowych powiatowych i wyższych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="q3GgcxJg25QvSsV-27rt-27">
           <mxGeometry y="30" width="230" height="70" as="geometry" />
