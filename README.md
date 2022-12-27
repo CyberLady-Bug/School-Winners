@@ -1,6 +1,6 @@
 # School Winners
 Aplikacja będzie tworzona w oparciu o zapisy statutu szkoły SP2DT - przyznawanie uczniom nagród.
-W zamyśle aplikacja ma ułatwić nauczycielom przyznawanie uczniom nagród końcoworocznych.
+W zamyśle aplikacja ma ułatwić pracę nauczycielom.
 # Oryginalne zapisy Stautu SP2DT rok szkolny 2022/2023
 Rozdział 4
 Nagrody
