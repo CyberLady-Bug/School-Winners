@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T00:55:52.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="uEynpgje5JwxIc6np1Q3" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-31T12:04:49.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xQ5WO6DY5rT5LExNLfu7" version="20.7.4" type="github" pages="5">
   <diagram id="3Q4GlsZANsvQ1GP8jlbz" name="Strona-1">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LoK8NA3SMxFQJAUGKten" name="Strona-2">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TOHKiWx5Kxfd-wnqGyOT" name="Strona-3">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,14 +320,14 @@
         <mxCell id="rlXdOEOW1uNFAYqNO1N_-3" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;rotation=90;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="830" y="605" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rlXdOEOW1uNFAYqNO1N_-4" value="Czy uczeń ma 100% Frekwencję?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="352" y="680" width="490" height="30" as="geometry" />
+        <mxCell id="rlXdOEOW1uNFAYqNO1N_-4" value="Czy uczniowi przysługuje Nadzwyczajny Dyplom uznania?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="680" width="620" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="uaYWNSP1fnBndNwg8bs4" name="Strona-4">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,6 +432,124 @@
         </mxCell>
         <mxCell id="aTkVJ1fbReWlkwhbcKu5-1" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;Tu wyświetlają się dane wybrane na stronie startowej: rok szkolny oraz ten komunikat&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="ctOvIZfla_BXJiFbdyxL-1">
           <mxGeometry x="-10" y="360" width="240" height="94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A3Qbi-Rmgb3ka52h2RwW" name="Strona-5">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-2" value="SCHOOL&amp;nbsp; WINNERS" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=22;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="484" y="40" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-3" value="Niestety... &lt;br&gt;w tym roku nie otrzymujesz nagrody." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=26;sketch=1;curveFitting=1;jiggle=2;fontColor=#FF6666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="432" y="152" width="320" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-4" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;fontColor=default;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="406" as="sourcePoint" />
+            <mxPoint x="350" y="386" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-5" value="&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;Imię i Nazwisko&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="410.5" y="290" width="363" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-6" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;fontColor=default;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="337" y="180" as="sourcePoint" />
+            <mxPoint x="417" y="190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-7" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;fontColor=default;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="372" y="70" as="sourcePoint" />
+            <mxPoint x="452" y="80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-8" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;To się wyświetla na stronie, jeśli zostaną wybrane klasy 1 lub 2&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="202" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-9" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;To się wyświetla na każdej podstronie&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="232" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-10" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;Tu się wyświetla wybrane na str. startowej imię i nazwisko przedszkolaka&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="82" y="266" width="240" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-11" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;fontColor=default;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332" y="290" as="sourcePoint" />
+            <mxPoint x="412" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="367" y="296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-12" value="&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;&amp;nbsp;Wg zapisów Statutu uczeń klasy xx nie otrzymuje nagrody&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="392" y="346" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-13" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;Tu się wyświetlają dane wybrane na stronie startowej: klasa, oddział oraz ten komunikat&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="367" width="240" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-14" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=26;fillColor=#ffcc99;rotation=90;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="798" y="204" width="268" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-15" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;GRafika z pieskiem&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990" y="57" width="128" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-16" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;fontColor=default;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="985" y="67" as="sourcePoint" />
+            <mxPoint x="932" y="127.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="985.08" y="66.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-25" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;&lt;br&gt;Uczeń otrzymuje Dyplom za 100% Frekwencję.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-26" value="&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;Uczeń nie otrzymuje Dyplomu za 100% Frekwencję.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-27" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;&lt;br&gt;Uczeń otrzymuje Nadzwyczajny Dyplom Uznania.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="610" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-28" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;&lt;br&gt;Uczeń nie otrzymuje Nadzwyczajnego Dyplomu Uznania.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-29" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;Tu się w zależności od wybranej opcji w polu wyboru wyświetla się&amp;nbsp; komunikat:&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;labelBackgroundColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="560" width="240" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-30" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;fontColor=default;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="550" as="sourcePoint" />
+            <mxPoint x="205" y="530" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-blYZrqnQTrbeIFTrKCL-31" value="" style="endArrow=classic;html=1;rounded=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=21;fontColor=default;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;exitX=0.463;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-blYZrqnQTrbeIFTrKCL-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="690" as="sourcePoint" />
+            <mxPoint x="215" y="670" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZN6_VKoz0GTzjL5atMv-1" value="PDF" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=26;fontColor=#FF6666;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="505" y="710" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HZN6_VKoz0GTzjL5atMv-2" value="Drukuj kartę informacyjną ucznia" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=26;fontColor=#FF6666;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZN6_VKoz0GTzjL5atMv-3" value="Zapisz i wyślij" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=26;fontColor=#FF6666;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="630" y="730" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8-FrhTQhFIa5b_LueU1-1" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;rotation=90;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="980" y="735" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
